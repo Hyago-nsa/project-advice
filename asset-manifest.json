@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/project-advice/static/css/main.7264beb8.css",
+    "main.js": "/project-advice/static/js/main.780e7b60.js",
+    "static/media/jezael-melgoza-2FiXtdnVhjQ-unsplash.jpg": "/project-advice/static/media/jezael-melgoza-2FiXtdnVhjQ-unsplash.efa9da3f793f4ff5ece3.jpg",
+    "static/media/LeagueSpartan-VariableFont_wght.ttf": "/project-advice/static/media/LeagueSpartan-VariableFont_wght.596f54f303afb90cbfb0.ttf",
+    "index.html": "/project-advice/index.html",
+    "main.7264beb8.css.map": "/project-advice/static/css/main.7264beb8.css.map",
+    "main.780e7b60.js.map": "/project-advice/static/js/main.780e7b60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7264beb8.css",
+    "static/js/main.780e7b60.js"
+  ]
+}
